@@ -204,6 +204,13 @@ a.arrow{
 	background:url(../images/sillk-3.png)no-repeat;
 
 }
+@media (max-width:480px){
+	.img{
+	height: 450px;
+	background:url(../images/skill.png)no-repeat;
+    background-size:cover ;
+}
+}
 
 .down span{
 height:48px;
